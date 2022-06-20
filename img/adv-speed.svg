@@ -6,7 +6,7 @@
         <rect x="-219" y="-2" width="750" height="271" fill="url(#pattern0)" fill-opacity="0.69"/>
     </g>
     <rect width="330" height="269" fill="#357AFF" fill-opacity="0.85"/>
-    <defs>
+    <defs> 
         <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
             <use xlink:href="#image0" transform="translate(0 -0.00641162) scale(0.000244141 0.000675666)"/>
         </pattern>
